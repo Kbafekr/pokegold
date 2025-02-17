@@ -179,7 +179,7 @@ MartOlivine:
 	db -1 ; end
 
 MartEcruteak:
-	db 10 ; # items
+	db 11 ; # items
 	db POKE_BALL
 	db GREAT_BALL
 	db REVIVE
@@ -187,6 +187,7 @@ MartEcruteak:
 	db FULL_HEAL
 	db FIRE_STONE
 	db WATER_STONE
+	db THUNDERSTONE
 	db LEAF_STONE
 	db SUN_STONE
 	db MOON_STONE
