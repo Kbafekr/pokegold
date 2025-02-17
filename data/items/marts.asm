@@ -182,14 +182,14 @@ MartEcruteak:
 	db 10 ; # items
 	db POKE_BALL
 	db GREAT_BALL
-	db POTION
-	db SUPER_POTION
-	db ANTIDOTE
-	db PARLYZ_HEAL
-	db AWAKENING
-	db BURN_HEAL
-	db ICE_HEAL
 	db REVIVE
+	db SUPER_POTION
+	db FULL_HEAL
+	db FIRE_STONE
+	db WATER_STONE
+	db LEAF_STONE
+	db SUN_STONE
+	db MOON_STONE
 	db -1 ; end
 
 MartMahogany1:
